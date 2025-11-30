@@ -28,7 +28,8 @@ h3{font-family: Verdana;
 	font-size: 12px;
 	line-height: 30px;
 	padding-left: 40px;
-	padding-right: 40px;}
+	padding-right: 40px;
+	text-align: center;}
 
 footer{text-align:center;
 	background-color:#D3D3D3;
@@ -63,4 +64,32 @@ footer{text-align:center;
 		margin-left:4em;
 		margin-right:4em;
 		height: 400px}
+		
+#bigphotoofme {background-image: url(familyphoto.jpg);
+		background-size:100% 100%;
+		background-repeat: no-repeat;
+		margin-left:10em;
+		margin-right:10em;
+		height: 1000px}
+		
+#floorplan {background-image: url(floorplan.jpg);
+		background-size:100% 100%;
+		background-repeat: no-repeat;
+		margin-left:10em;
+		margin-right:10em;
+		height: 600px}
+		
+#sitesection {background-image: url(sitesection1.jpg);
+		background-size:100% 100%;
+		background-repeat: no-repeat;
+		margin-left:10em;
+		margin-right:10em;
+		height: 600px}
+		
+#littlelibrary {background-image: url(littlelibrary.jpg);
+		background-size:100% 100%;
+		background-repeat: no-repeat;
+		margin-left:10em;
+		margin-right:10em;
+		height: 600px}
 
