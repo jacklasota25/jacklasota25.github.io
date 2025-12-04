@@ -36,6 +36,12 @@ footer{text-align:center;
 	padding:1em;
 	margin-left:12em;
 	margin-right:12em;}
+	
+form {flex: display;
+	flex-direction:column;
+	flex-wrap:nowrap;}
+	
+video {text-align: center;}
 
 .flex-container {display: flex;
   justify-content: space-between;}
@@ -92,4 +98,6 @@ footer{text-align:center;
 		margin-left:10em;
 		margin-right:10em;
 		height: 600px}
+		
+#walkthrough {margin-left:10em;}
 
